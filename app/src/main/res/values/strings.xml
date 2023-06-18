@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Fizz buzz</string>
+    <string name="title">LV FizzBuzz Game</string>
+    <string name="play">Play !</string>
+    <string name="number_1">Number 1</string>
+    <string name="number_2">Number 2</string>
+    <string name="word_1">Word 1</string>
+    <string name="word_2">Word 2</string>
+    <string name="limit">Limit</string>
+    <string name="enter_numbers">Enter 2 numbers</string>
+    <string name="enter_words">Enter 2 words</string>
+    <string name="choose_limit">Choose a limit</string>
+    <string name="result_is">Result is ...</string>
+    <string name="play_again">Play again !</string>
+</resources>
